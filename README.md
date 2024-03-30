@@ -1,4 +1,4 @@
-# car-rental-app
+# car-rental
  
 #### Car Rental web sitesi, html ve css kullanılarak tasarlandı.
  
